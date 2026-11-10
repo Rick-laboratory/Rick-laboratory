@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Rick's Laboratory — Closer to the metal.</title>
+  <desc id="desc">Systems software, tools, and experiments by Rick Armbruster.</desc>
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#26393d"/></pattern></defs>
+  <rect width="680" height="420" rx="16" fill="#111c20"/>
+  <rect x="388" y="16" width="276" height="388" fill="url(#grid)"/>
+  <path d="M34 38h10v10H34z" fill="#79e8c0"/>
+  <text x="59" y="49" fill="#9ab2ae" font-family="Consolas, 'Courier New', monospace" font-size="19" letter-spacing="1.2">RICK'S LABORATORY</text>
+  <text x="30" y="154" fill="#f2f5ee" font-family="'Segoe UI', Arial, sans-serif" font-size="77" font-weight="700" letter-spacing="-3">Closer to</text>
+  <text x="30" y="239" fill="#79e8c0" font-family="'Segoe UI', Arial, sans-serif" font-size="77" font-weight="700" letter-spacing="-3">the metal.</text>
+  <text x="34" y="292" fill="#9ab2ae" font-family="'Segoe UI', Arial, sans-serif" font-size="22">Systems software. Tools.</text>
+  <text x="34" y="322" fill="#9ab2ae" font-family="'Segoe UI', Arial, sans-serif" font-size="22">Curious experiments.</text>
+  <path d="M34 370h28" stroke="#d9bd88" stroke-width="2"/>
+  <text x="76" y="377" fill="#9ab2ae" font-family="Consolas, 'Courier New', monospace" font-size="17" letter-spacing=".4">RICK ARMBRUSTER / GERMANY</text>
+  <g transform="translate(-90 165) scale(.64)">    <g fill="none" stroke="#35534f" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M785 255 938 195 1090 255 938 315Z" fill="#142527"/>
+      <path d="M785 255v15l153 60 152-60v-15M938 315v15"/>
+      <path d="M785 204 938 144 1090 204 938 264Z" fill="#182c2e"/>
+      <path d="M785 204v15l153 60 152-60v-15M938 264v15"/>
+      <path d="M785 153 938 93 1090 153 938 213Z" fill="#182c2e"/>
+      <path d="M785 153v15l153 60 152-60v-15M938 213v15"/>
+      <path d="M938 93V60M1090 153h37M785 153h-37" stroke-dasharray="3 5"/>
+      <path d="M846 153 938 117 1030 153 938 189Z" stroke="#79e8c0"/>
+      <path d="m884 153 54-21 54 21-54 21Z" fill="#79e8c0" fill-opacity=".12" stroke="#79e8c0"/>
+      <path d="m938 132 0-15M992 153h38M938 174v15M884 153h-38" stroke="#79e8c0"/>
+      <path d="m814 204 35 14 22-9M878 229l60 24 34-13M1002 228l58-23" stroke="#9ab2ae"/>
+      <path d="m815 255 60 24M892 285l46 18 92-36"/>
+      <path d="M1132 72h12v12M760 309v12h12" stroke="#d9bd88"/>
+      <circle cx="938" cy="153" r="5" fill="#79e8c0" stroke="none"/>
+      <circle cx="938" cy="60" r="3" fill="#d9bd88" stroke="none"/>
+      <circle cx="748" cy="153" r="3" fill="#d9bd88" stroke="none"/>
+      <circle cx="1127" cy="153" r="3" fill="#d9bd88" stroke="none"/>
+    </g></g>
+</svg>
